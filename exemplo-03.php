@@ -16,7 +16,7 @@ $frutas = array("abacaxi", "laranja", "manga");
 $nascimento = new DateTime();
 //var_dump($nascimento);
 
-/* Terceiro - Tipos Especiais (Research e Null) */
+/* Terceiro - Tipos Especiais (Resource e Null) */
 
 $arquivo = fopen("exemplo-03.php", "r");
 //var_dump($arquivo);
